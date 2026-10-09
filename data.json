@@ -250,5 +250,147 @@
     "cap": "$50.000; máximo 4 compras/mes",
     "mode": "Presencial",
     "source": "https://www.scotiabankchile.cl/tarjetas-de-credito/beneficios-tarjeta-platinum"
+  },
+  {
+    "id": "bch-sello-raza",
+    "bank": "Banco de Chile",
+    "restaurant": "Sello de Raza",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Banco de Chile Visa",
+      "Banco Edwards Visa"
+    ],
+    "days": "Durante octubre",
+    "region": [
+      "Los Ríos"
+    ],
+    "city": [
+      "Valdivia"
+    ],
+    "cap": "",
+    "mode": "Presencial",
+    "validity": "01–31 octubre 2026",
+    "source": "https://sitiospublicos.bancoedwards.cl/personas/beneficios/detalle/sello-de-raza-visa",
+    "lat": -39.8305,
+    "lng": -73.2444
+  },
+  {
+    "id": "itau-mia-standard",
+    "bank": "Itaú",
+    "restaurant": "MIA BAR",
+    "discount": "20%",
+    "discount_pct": 20,
+    "type": "Descuento",
+    "card": [
+      "Itaú crédito",
+      "Itaú débito"
+    ],
+    "days": "Miércoles",
+    "region": [
+      "Los Ríos"
+    ],
+    "city": [
+      "Valdivia"
+    ],
+    "cap": "$100.000 mensual por titular",
+    "mode": "Presencial",
+    "validity": "01 septiembre–31 octubre 2026",
+    "source": "https://itaubeneficios.cl/restaurantes/mia-bar/",
+    "lat": -39.8175,
+    "lng": -73.2577
+  },
+  {
+    "id": "itau-mia-premium",
+    "bank": "Itaú",
+    "restaurant": "MIA BAR",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Itaú Legend crédito",
+      "Itaú Black crédito"
+    ],
+    "days": "Miércoles",
+    "region": [
+      "Los Ríos"
+    ],
+    "city": [
+      "Valdivia"
+    ],
+    "cap": "$100.000 mensual por titular",
+    "mode": "Presencial",
+    "validity": "01–31 octubre 2026",
+    "source": "https://itaubeneficios.cl/miercoles-gourmet/mia-bar-3/",
+    "lat": -39.8175,
+    "lng": -73.2577
+  },
+  {
+    "id": "itau-punto-pais",
+    "bank": "Itaú",
+    "restaurant": "Punto País",
+    "discount": "20%",
+    "discount_pct": 20,
+    "type": "Descuento",
+    "card": [
+      "Itaú crédito",
+      "Itaú débito"
+    ],
+    "days": "Martes y miércoles",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "$100.000 mensual por titular",
+    "mode": "Presencial",
+    "validity": "01 septiembre–31 octubre 2026",
+    "source": "https://itaubeneficios.cl/jueves-gourmet/punto-pais-2/"
+  },
+  {
+    "id": "bci-starbucks",
+    "bank": "Bci",
+    "restaurant": "Starbucks",
+    "discount": "50%",
+    "discount_pct": 50,
+    "type": "Descuento",
+    "card": [
+      "Bci Mastercard Platinum crédito",
+      "Bci Mastercard Black crédito",
+      "Bci Visa Platinum crédito",
+      "Bci Visa Signature crédito",
+      "Bci Visa Infinite crédito"
+    ],
+    "days": "Martes, miércoles y jueves",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "2 códigos por cliente al mes; solicitar código en App Bci",
+    "mode": "Presencial",
+    "validity": "Hasta 01 noviembre 2026",
+    "source": "https://www.bci.cl/beneficios/beneficios-bci/restaurantes"
+  },
+  {
+    "id": "bci-tres-valles",
+    "bank": "Bci",
+    "restaurant": "Tres Valles Restaurant",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Bci crédito"
+    ],
+    "days": "Según disponibilidad del comercio",
+    "region": [
+      "Metropolitana"
+    ],
+    "city": [
+      "Santiago"
+    ],
+    "cap": "$40.000 por compra",
+    "mode": "Presencial",
+    "validity": "Hasta 01 noviembre 2026",
+    "source": "https://www.bci.cl/beneficios/beneficios-bci/detalle/santiago-icrw8ock"
   }
 ]
