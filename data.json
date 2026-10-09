@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bch-matureo",
+    "bank": "Banco de Chile",
+    "restaurant": "Matureo",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Banco de Chile Visa",
+      "Banco Edwards Visa"
+    ],
+    "days": "Según condiciones",
+    "region": [
+      "Metropolitana"
+    ],
+    "city": [
+      "Santiago"
+    ],
+    "cap": "",
+    "mode": "Presencial",
+    "source": "https://sitiospublicos.bancochile.cl/personas/beneficios/detalle/matureo-visa",
+    "lat": -33.4489,
+    "lng": -70.6693
+  },
+  {
+    "id": "bch-dunkin",
+    "bank": "Banco de Chile",
+    "restaurant": "Dunkin'",
+    "discount": "30%",
+    "discount_pct": 30,
+    "type": "Descuento",
+    "card": [
+      "Banco de Chile"
+    ],
+    "days": "Lunes y miércoles",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "",
+    "mode": "Presencial y online",
+    "source": "https://sitiospublicos.bancochile.cl/personas/beneficios/todos-los-beneficios"
+  },
+  {
+    "id": "bch-starbucks",
+    "bank": "Banco de Chile",
+    "restaurant": "Starbucks",
+    "discount": "30%",
+    "discount_pct": 30,
+    "type": "Descuento",
+    "card": [
+      "Banco de Chile"
+    ],
+    "days": "Viernes",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "",
+    "mode": "Presencial",
+    "source": "https://sitiospublicos.bancochile.cl/personas/beneficios/todos-los-beneficios"
+  },
+  {
+    "id": "bch-dominos",
+    "bank": "Banco de Chile",
+    "restaurant": "Domino's Pizza",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Banco de Chile"
+    ],
+    "days": "Martes",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "",
+    "mode": "Presencial y online",
+    "source": "https://sitiospublicos.bancochile.cl/personas/beneficios/todos-los-beneficios"
+  },
+  {
+    "id": "sant-melt",
+    "bank": "Banco Santander",
+    "restaurant": "Melt Pizzas",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Santander"
+    ],
+    "days": "Martes",
+    "region": [
+      "La Araucanía",
+      "Metropolitana",
+      "Valparaíso",
+      "Los Lagos",
+      "Antofagasta",
+      "Bío-Bío",
+      "Maule",
+      "O'Higgins"
+    ],
+    "city": [],
+    "cap": "",
+    "mode": "Presencial",
+    "source": "https://banco.santander.cl/landing/beneficios-descuentos"
+  },
+  {
+    "id": "sant-domino",
+    "bank": "Banco Santander",
+    "restaurant": "Dominó",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Santander"
+    ],
+    "days": "Martes",
+    "region": [
+      "Metropolitana",
+      "Valparaíso",
+      "Los Lagos",
+      "Antofagasta",
+      "Bío-Bío"
+    ],
+    "city": [],
+    "cap": "",
+    "mode": "Presencial",
+    "source": "https://banco.santander.cl/landing/beneficios-descuentos"
+  },
+  {
+    "id": "sant-awa",
+    "bank": "Banco Santander",
+    "restaurant": "Restaurante Hotel AWA",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Santander"
+    ],
+    "days": "Jueves",
+    "region": [
+      "Los Lagos"
+    ],
+    "city": [
+      "Puerto Varas"
+    ],
+    "cap": "",
+    "mode": "Presencial",
+    "source": "https://banco.santander.cl/landing/beneficios-descuentos",
+    "lat": -41.3195,
+    "lng": -72.9854
+  },
+  {
+    "id": "sant-terraza",
+    "bank": "Banco Santander",
+    "restaurant": "Terraza Restaurant",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Santander"
+    ],
+    "days": "Miércoles",
+    "region": [
+      "Coquimbo"
+    ],
+    "city": [
+      "La Serena"
+    ],
+    "cap": "",
+    "mode": "Presencial",
+    "source": "https://banco.santander.cl/landing/beneficios-descuentos",
+    "lat": -29.9027,
+    "lng": -71.2519
+  },
+  {
+    "id": "bf-dunkin",
+    "bank": "Banco Falabella",
+    "restaurant": "Dunkin'",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Banco Falabella"
+    ],
+    "days": "Martes",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "Sin tope",
+    "mode": "Presencial y online",
+    "source": "https://www.bancofalabella.cl/cuponeras"
+  },
+  {
+    "id": "bf-mcdonalds",
+    "bank": "Banco Falabella",
+    "restaurant": "McDonald's",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Banco Falabella"
+    ],
+    "days": "Lunes",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "Sin tope",
+    "mode": "Presencial",
+    "source": "https://www.bancofalabella.cl/cuponeras"
+  },
+  {
+    "id": "bf-papajohns",
+    "bank": "Banco Falabella",
+    "restaurant": "Papa John's",
+    "discount": "40%",
+    "discount_pct": 40,
+    "type": "Descuento",
+    "card": [
+      "Banco Falabella"
+    ],
+    "days": "Martes",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "Sin tope",
+    "mode": "Presencial y online",
+    "source": "https://www.bancofalabella.cl/cuponeras"
+  },
+  {
+    "id": "scotiabank-platinum",
+    "bank": "Scotiabank",
+    "restaurant": "Restaurantes adheridos del mes",
+    "discount": "50% devolución",
+    "discount_pct": 50,
+    "type": "Devolución",
+    "card": [
+      "Scotiabank Visa Platinum"
+    ],
+    "days": "Según restaurantes vigentes",
+    "region": [
+      "Chile"
+    ],
+    "city": [],
+    "cap": "$50.000; máximo 4 compras/mes",
+    "mode": "Presencial",
+    "source": "https://www.scotiabankchile.cl/tarjetas-de-credito/beneficios-tarjeta-platinum"
+  }
+]
